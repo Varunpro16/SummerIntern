@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SummerIntern/static/css/main.12efe4ca.css",
+    "main.js": "/SummerIntern/static/js/main.a5146794.js",
+    "static/media/ECE DEPT PICS 2.png": "/SummerIntern/static/media/ECE DEPT PICS 2.61521d78f8ec1652ba24.png",
+    "static/media/ECE DEPT PICS.png": "/SummerIntern/static/media/ECE DEPT PICS.7549736e0b993651ab47.png",
+    "static/media/ECE DEPT PICS 4.jpg": "/SummerIntern/static/media/ECE DEPT PICS 4.f5f09f91eb76685e7a47.jpg",
+    "static/media/3.jpg": "/SummerIntern/static/media/3.d11a6ed326bf404b7cba.jpg",
+    "static/media/2.jpg": "/SummerIntern/static/media/2.c38cf4f659b22d772526.jpg",
+    "static/media/cisco.png": "/SummerIntern/static/media/cisco.64fd65c5146ce9ef5d25.png",
+    "static/media/1.jpg": "/SummerIntern/static/media/1.421c885767b95bf837b1.jpg",
+    "static/media/avasoft.png": "/SummerIntern/static/media/avasoft.907a2c84c85cdde7c268.png",
+    "static/media/accenture.png": "/SummerIntern/static/media/accenture.8082a4b7dc047f0fc408.png",
+    "static/media/bus.jpg": "/SummerIntern/static/media/bus.3cdfdd762da045dfce1f.jpg",
+    "static/media/wipro.png": "/SummerIntern/static/media/wipro.3157467e6aeb1b688988.png",
+    "static/media/food.png": "/SummerIntern/static/media/food.4b32153b0da9cbb35e1b.png",
+    "static/media/ECE DEPT PICS 3.jpg": "/SummerIntern/static/media/ECE DEPT PICS 3.8691e3fd6ff7c153eea1.jpg",
+    "static/media/cognizant.png": "/SummerIntern/static/media/cognizant.397dd770c1dcbea73f72.png",
+    "static/media/mindtree.png": "/SummerIntern/static/media/mindtree.d55875fdec37d3afc459.png",
+    "static/media/post.jpeg": "/SummerIntern/static/media/post.92779a3d3305996fed20.jpeg",
+    "static/media/adobe.png": "/SummerIntern/static/media/adobe.d41725c3e13f080f6fee.png",
+    "static/media/zoho.png": "/SummerIntern/static/media/zoho.a4800c71e2197a1ef657.png",
+    "index.html": "/SummerIntern/index.html",
+    "main.12efe4ca.css.map": "/SummerIntern/static/css/main.12efe4ca.css.map",
+    "main.a5146794.js.map": "/SummerIntern/static/js/main.a5146794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12efe4ca.css",
+    "static/js/main.a5146794.js"
+  ]
+}
